@@ -6,7 +6,7 @@
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
 	<RootNamespace></RootNamespace>
-	<ProjectGuid>{12088D4F-AF06-F7F5-3F1B-A44A238CCB6C}</ProjectGuid>
+	<ProjectGuid>{B012E925-8F0D-ECA1-36E5-EB065E25A820}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<AssemblyName>Assembly-CSharp</AssemblyName>
@@ -46,10 +46,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\bola.cs" />
-     <Compile Include="Assets\Script\boton.cs" />
      <Compile Include="Assets\Script\camara.cs" />
      <Compile Include="Assets\Script\cubo.cs" />
      <Compile Include="Assets\Script\meta.cs" />
+     <Compile Include="Assets\Script\plano.cs" />
      <Compile Include="Assets\Script\puntuacion.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
